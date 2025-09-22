@@ -1,4 +1,4 @@
-# Stage 1: Build the app
+ # Stage 1: Build the app
 FROM eclipse-temurin:21-jdk AS builder
 
 WORKDIR /app
